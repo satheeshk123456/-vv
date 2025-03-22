@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "767780330111",
+    "project_id": "vendorvibe-vv",
+    "storage_bucket": "vendorvibe-vv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767780330111:android:f34b468502dc1913f4fd4a",
+        "android_client_info": {
+          "package_name": "com.example.vendorvibe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767780330111-8loaa556nthjn8p8co27gt12be902po2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vendorvibe",
+            "certificate_hash": "02bf61f077308ca1a52bf5bee99520dc60c76b92"
+          }
+        },
+        {
+          "client_id": "767780330111-vvuju28s4dqjobtq74d801vm980obian.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGAXXPABiNAJz0JrkYAWqfEypXy0GTXVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767780330111-vvuju28s4dqjobtq74d801vm980obian.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
